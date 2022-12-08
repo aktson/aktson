@@ -12,8 +12,8 @@ Front-end Developer and web-designer based in Norway
 <li> 🤩 Cricket</li>
 
 ### 📫 Reach out to me at,
-<li>:link: <a href="https://www.linkedin.com/in/ankit-soni-78177b1a/">LinkedIn</a></li>
-<li>:link: <a href="https://ankitsoni.netlify.app/">My Site</a></li>
+<li> <a href="https://www.linkedin.com/in/ankit-soni-78177b1a/">:link: LinkedIn</a></li>
+<li><a href="https://ankitsoni.netlify.app/">:link:  My Site</a></li>
 
 
 <!--

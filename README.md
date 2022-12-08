@@ -1,4 +1,4 @@
-### Hi there, I'm Ankit Soni 👋
+# Hi there, I'm Ankit Soni 👋
 Front-end Developer and web-designer based in Norway
 
 ### My goal is achieve skills in back-end developement and become Full-stack Developer.

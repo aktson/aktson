@@ -6,10 +6,10 @@ Front-end Developer and web-designer based in Norway
 
 
 ### I am passionate about,
-### 🖥 Technology
-### 🎨 Design
-### 🕹 Gym
-### 🤩 Cricket
+<li> 🖥 Technology</li>
+<li> 🎨 Design</li>
+<li> 🕹 Gym</li>
+<li> 🤩 Cricket</li>
 
 ### 📫 Reach out to me at,
 <li><a href="https://www.linkedin.com/in/ankit-soni-78177b1a/">LinkedIn</a></li>

@@ -1,5 +1,5 @@
 ### Ankit Soni
-Front-end Developer, problem Solver, Technology Lover, gym & cravel lover.
+Front-end Developer, problem Solver, Technology and gym Lover.
 
 ## Hi there  👋
 

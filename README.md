@@ -5,7 +5,7 @@ Front-end Developer and web-designer based in Norway
 
 
 
-### I am passionate about,
+### :heart: I am passionate about,
 <li> 🖥 Technology</li>
 <li> 🎨 Design</li>
 <li> 🕹 Gym</li>

@@ -8,7 +8,7 @@ Front-end Developer and web-designer based in Norway
 ### :heart: I am passionate about,
 <li> 🖥 Technology</li>
 <li> 🎨 Design</li>
-<li> 🕹 Gym</li>
+<li> :muscle: Gym</li>
 <li> 🤩 Cricket</li>
 
 ### 📫 Reach out to me at,

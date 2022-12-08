@@ -1,7 +1,7 @@
-### Hi there 👋
-
-
+### Ankit Soni
 Front-end Developer, problem Solver, Technology Lover, gym & cravel lover.
+
+## Hi there  👋
 
 - 🔭 I’m currently working on my personal portfolio site
 - 🌱 I’m currently learning node.js/typescript
